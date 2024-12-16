@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572387114118",
+    "project_id": "flag-pick-hr07sa",
+    "storage_bucket": "flag-pick-hr07sa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572387114118:android:f9fb47854076ffa5e72507",
+        "android_client_info": {
+          "package_name": "com.mycompany.flagpick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkiPteSzVwwkII2fAYJWwzIdl1yGfw2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
